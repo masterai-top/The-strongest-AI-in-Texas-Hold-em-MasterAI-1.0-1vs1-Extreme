@@ -156,11 +156,16 @@ MasterAI赛事情况如下 ：
 ![640 (1)](https://github.com/user-attachments/assets/4c5591c7-e59a-4fde-8af9-723243ce0cf1)
 
 
+
+
  9/1~9/4 首届全明星邀请赛，MasterAI 机器人已战胜顶尖扑克游戏职业高手每百手赢取大盲达到平均36.38的水准，大赢人类职业选手。
 
 ![微信图片_20241030105723](https://github.com/user-attachments/assets/3d473e19-db23-4cf2-a4d2-50d73cb8ab77)
 ![微信图片_20241030103520](https://github.com/user-attachments/assets/3fd8c2d9-8dde-42a9-a82f-1f8677610735)
 
+
+![Stars](https://img.shields.io/github/stars/masterai-top/TexasHoldem-Poker-AI-HeadsUp-Engine?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/masterai-top/TexasHoldem-Poker-AI-HeadsUp-Engine)
 
 
 
